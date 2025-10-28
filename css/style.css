@@ -49,3 +49,7 @@ button {
 button:hover {
     background-color: #012c34;
 }
+
+#next-button {
+  color: yellow;
+}
