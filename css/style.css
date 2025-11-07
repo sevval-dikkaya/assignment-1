@@ -53,3 +53,15 @@ button:hover {
 #next-button {
   color: yellow;
 }
+
+
+.options .right,
+.options .correct {
+  background-color: #4caf50 ; /* green for correct */
+  color: #fff ;
+}
+
+.options .wrong {
+  background-color: #f44336 ; /* red for wrong */
+  color: #fff ;
+}
